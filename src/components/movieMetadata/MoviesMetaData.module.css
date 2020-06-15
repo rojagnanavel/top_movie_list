@@ -1,0 +1,14 @@
+
+.imageStyle{
+    padding:15px;
+    border-radius:25px;
+}
+.movieBg{
+    background-image: linear-gradient(to right, #021331 , #4fc3f7);
+}
+.imageAlignment{
+    display:flex;
+}
+.metaDataColor{
+    color:white;
+}
